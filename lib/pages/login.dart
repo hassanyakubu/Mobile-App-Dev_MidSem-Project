@@ -30,7 +30,7 @@ class _LoginState extends State<Login> {
             child: Column(
               children: [
                 Image.asset(
-                  'assets/images/logo.png',
+                  'assets/images/logo.jpeg',
                   height: 100,
                   width: 100,
                 ),
